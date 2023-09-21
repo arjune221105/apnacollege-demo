@@ -2,4 +2,4 @@
 this is my first project
 
 <br/>
-Author - shrddha shrddha khrapra
+Author - shrddha shrddha (Apna college)
